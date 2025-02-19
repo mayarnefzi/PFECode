@@ -1,0 +1,20 @@
+.iframe-container {
+    width: 100%;
+    margin-bottom: 20px; /* Ajoute un espacement entre les iframes */
+}
+
+.toggle-button {
+    display: block; /* Assure que le bouton occupe toute la largeur */
+    margin: 10px auto; /* Centrer le bouton */
+    padding: 10px 20px; /* Ajouter du padding */
+    font-size: 16px; /* Taille de la police */
+    background-color: #007BFF; /* Couleur de fond */
+    color: white; /* Couleur du texte */
+    border: none; /* Supprimer les bordures */
+    border-radius: 5px; /* Coins arrondis */
+    cursor: pointer; /* Changer le curseur au survol */
+}
+
+.toggle-button:hover {
+    background-color: #0056b3; /* Couleur au survol */
+}
